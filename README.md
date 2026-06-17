@@ -51,4 +51,4 @@ I am an innovative **Mobile Application Developer** and **Computer Science Resea
 
 ### 🌐 Connect & Follow My Work
 * 💼 **LinkedIn:** [linkedin.com/in/kyawt-may-hlaing](https://www.linkedin.com/in/kyawt-may-hlaing-4623aaab/)
-* ✍️ **Medium Articles:** [medium.com/@kyawtmayhlaing173](https://medium.com/@kyawtmayhlaing173)
+* ✍️ **Medium Articles:** [medium.com/@pinky.hlaing173](https://medium.com/@pinky.hlaing173)
