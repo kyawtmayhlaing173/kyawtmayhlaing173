@@ -1,23 +1,19 @@
 # Hi there, I'm Kyawt May Hlaing! 👋
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/karan-ksrk/crypto/main/DancingDoge.gif" width="150" alt="Dancing Shiba Inu" />
-</p>
-
-I am an innovative **Mobile Application Developer** and **Computer Science Researcher** based in Yangon, Myanmar. I specialize in building highly responsive, performant cross-platform mobile experiences (**Flutter**, **SwiftUI**, **Ionic**) and exploring cutting-edge applications in **Blockchain** and **IoT**.
+I am an innovative **Mobile Application Developer** and **Computer Science Researcher** based in Yangon, Myanmar. I specialize in building highly responsive, performant cross-platform mobile experiences (**Flutter**, **SwiftUI**, **Ionic**) and exploring applications in **Blockchain** and **Cloud architectures**.
 
 ---
 
 ### 🔭 About Me
 * 📱 **Mobile UI Architect:** Passionate about crafting pixel-perfect, native-feeling mobile interfaces with complex routing and smooth animations.
-* 🎓 **UIT Alumna:** Graduated from the **University of Information Technology (UIT), Yangon**, focusing on Computer Science and Information Networks.
-* 🔬 **Researcher:** Co-authored peer-reviewed research papers at the intersection of Ethereum smart contracts, Firebase, and IoT microcontrollers.
+* 🎓 **UIT Alumna:** Graduated from the **University of Information Technology (UIT), Yangon**, focusing on Computer Science.
+* 🔬 **Researcher:** Co-authored research at the intersection of Ethereum smart contracts, Firebase, and web/mobile integrations.
 * ✍️ **Tech Blogger:** Active writer on [Medium](https://medium.com/@kyawtmayhlaing173), sharing production-grade solutions for Flutter iOS workflows, deep linking setups (`go_router` & `app_links`), and CI/CD pipelines.
 * ⚡ **Fun Fact:** Driven purely by natural motivation—strictly member of the Coffee-Free Zone.
 
 ---
 
-### 🛠️ Technical Competencies & Stack
+### 🛠️ Technical Capabilities & Stack
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -33,7 +29,7 @@ I am an innovative **Mobile Application Developer** and **Computer Science Resea
 ┌────────────────────────────────────────────────────────────────────────┐
 │  SPECIALIZED & TOOLS                                                   │
 │  ► Solidity & Ethereum Smart Contracts           ► Git & GitHub Actions│
-│  ► IoT Platforms (ESP8266, Arduino)              ► Figma & Sketch      │
+│  ► Figma & Sketch                                ► Postman & Swagger   │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -41,11 +37,7 @@ I am an innovative **Mobile Application Developer** and **Computer Science Resea
 
 ### 📁 Research Publications
 * 📄 **Electricity Billing System using Ethereum and Firebase**
-  * *Explored decentralized smart contracts and billing automation to secure energy measurements, collaborating with Faculty of Computer Science, UIT.*
-* 📄 **IoT-based Electrical Energy Monitoring & Home Automation**
-  * *Designed ESP8266-driven sensor networks integrated with mobile application dashboards for real-time electrical analytics.*
-* 📄 **Geolocation-based Mobile Applications**
-  * *Developed custom location tracking and spatial calculations in mobile architectures.*
+  * *Explored decentralized smart contracts and billing automation to secure utility measurements, in collaboration with the Faculty of Computer Science, UIT.*
 
 ---
 
